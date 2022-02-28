@@ -20,7 +20,7 @@
 
 title: US PubSec Prisma Cloud Wiki
 email: hhernandez@paloaltonetworks.com
-#baseurl: '/' # the subpath of your site, e.g. /blog
+#baseurl: '/pubsec-pcs' # the subpath of your site, e.g. /blog
 url: "https://clouddork.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Aux links for the upper right navigation
