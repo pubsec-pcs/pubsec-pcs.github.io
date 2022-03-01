@@ -38,7 +38,8 @@ twitter_username: cloudDork
 github_username:  cloudDork
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 permalink: pretty
 
